@@ -1,0 +1,59 @@
+Begin Study at: 30-06-2023 18:07:34.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Language setting error
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:07:34
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:07:36
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:07:36
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:07:36
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:07:36
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:07:38
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:07:41
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:07:45
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:07:45
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:07:45
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:07:45
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:07:45
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:07:47
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:07:48
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:07:50
+
+--------------------------------------
+
+Started task "Subtraction" at 30-06-2023 18:07:50
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 30-06-2023 18:07:50
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 30-06-2023 18:07:50
+NPC  says "Welcome to second round" at 30-06-2023 18:07:50
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 30-06-2023 18:07:53
+NPC says "Subtraction series explanation" at 30-06-2023 18:07:53
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 30-06-2023 18:07:56
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 30-06-2023 18:07:57
+NPC says "Thank you! Next Task." at 30-06-2023 18:07:57
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:08:00
+
+--------------------------------------
+
+Started task "Computation" at 30-06-2023 18:08:00
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 30-06-2023 18:08:00
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 30-06-2023 18:08:00
+NPC  says "Welcome to second round" at 30-06-2023 18:08:00
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 30-06-2023 18:08:04
+NPC says "Compute chain explanation" at 30-06-2023 18:08:04

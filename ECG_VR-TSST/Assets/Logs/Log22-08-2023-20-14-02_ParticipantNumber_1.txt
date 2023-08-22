@@ -1,0 +1,83 @@
+Begin Study at: 22-08-2023 20:14:02.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Language setting error
+First round: [Computation, NumberSeries]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 22-08-2023 20:14:02
+
+--------------------------------------
+
+Started task "Start" at 22-08-2023 20:14:09
+
+--------------------------------------
+
+Started task "WaitingRoom" at 22-08-2023 20:14:09
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 22-08-2023 20:14:09
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 22-08-2023 20:14:09
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 22-08-2023 20:14:11
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 22-08-2023 20:14:12
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 22-08-2023 20:14:15
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 22-08-2023 20:14:15
+
+--------------------------------------
+
+Started task "PositionChange" at 22-08-2023 20:14:15
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 22-08-2023 20:14:15
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 22-08-2023 20:14:15
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 22-08-2023 20:14:17
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 22-08-2023 20:14:17
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 22-08-2023 20:14:19
+
+--------------------------------------
+
+Started task "Computation" at 22-08-2023 20:14:19
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 22-08-2023 20:14:19
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 22-08-2023 20:14:19
+NPC  says "Welcome" at 22-08-2023 20:14:19
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 22-08-2023 20:14:25
+NPC says "Compute chain explanation" at 22-08-2023 20:14:25
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 22-08-2023 20:14:33
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 22-08-2023 20:14:50
+An error occured in the Log-System at 22-08-2023 20:15:10
+Admin pressed button: "Wrong" at 22-08-2023 20:15:14
+
+--------------------------------------
+
+Restarted task "Computation" at 22-08-2023 20:15:20
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 22-08-2023 20:15:20
+NPC  says "Welcome" at 22-08-2023 20:15:20
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 22-08-2023 20:15:26
+NPC says "Compute chain explanation" at 22-08-2023 20:15:26
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 22-08-2023 20:15:33
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 22-08-2023 20:15:36
+Admin pressed button: "Correct" at 22-08-2023 20:15:57
+Admin pressed button: "Correct" at 22-08-2023 20:16:23
+Admin pressed button: "Correct" at 22-08-2023 20:16:51
+Current task: "ComputeChainTask"; Current state of Task: "End" at 22-08-2023 20:17:00
+NPC says "Thank you! Next Task." at 22-08-2023 20:17:00
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 22-08-2023 20:17:04
+
+--------------------------------------
+
+Started task "NumberSeries" at 22-08-2023 20:17:04
+Current task: "NumberSeriesTask"; Current state of Task: "Inactive" at 22-08-2023 20:17:04
+Current task: "NumberSeriesTask"; Current state of Task: "Welcome" at 22-08-2023 20:17:04
+NPC says "Number series explanation" at 22-08-2023 20:17:04
+Current task: "NumberSeriesTask"; Current state of Task: "TaskAction" at 22-08-2023 20:17:15
+Current task: "NumberSeriesTask"; Current state of Task: "RunSeries" at 22-08-2023 20:17:17
+An error occured in the Log-System at 22-08-2023 20:17:35
+Admin pressed button: "Wrong" at 22-08-2023 20:17:49
+Admin pressed button: "Correct" at 22-08-2023 20:17:50
+NPC says "Thank you! This is the end of the Test." at 22-08-2023 20:17:58
+
+--------------------------------------
+
+End Study ; at 22-08-2023 20:18:02

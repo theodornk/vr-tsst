@@ -1,0 +1,34 @@
+Begin Study at: 30-06-2023 18:31:30.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Language setting error
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:31:30
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:31:39
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:31:39
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:31:39
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:31:39
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:31:51
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:31:58
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:32:08
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:32:08
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:32:08
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:32:08
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:32:08

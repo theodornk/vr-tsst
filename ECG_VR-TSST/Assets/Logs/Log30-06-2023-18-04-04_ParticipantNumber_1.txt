@@ -1,0 +1,86 @@
+Begin Study at: 30-06-2023 18:04:04.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Language setting error
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:04:04
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:04:09
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:04:09
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:04:09
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:04:09
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:04:11
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:04:12
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:04:14
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:04:14
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:04:14
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:04:14
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:04:14
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:04:16
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:04:16
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:04:18
+
+--------------------------------------
+
+Started task "Subtraction" at 30-06-2023 18:04:18
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 30-06-2023 18:04:18
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 30-06-2023 18:04:18
+NPC  says "Welcome to second round" at 30-06-2023 18:04:18
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 30-06-2023 18:04:22
+NPC says "Subtraction series explanation" at 30-06-2023 18:04:22
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 30-06-2023 18:04:25
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 30-06-2023 18:04:27
+NPC says "Thank you! Next Task." at 30-06-2023 18:04:27
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:04:30
+
+--------------------------------------
+
+Started task "Computation" at 30-06-2023 18:04:30
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 30-06-2023 18:04:30
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 30-06-2023 18:04:30
+NPC  says "Welcome to second round" at 30-06-2023 18:04:30
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 30-06-2023 18:04:33
+NPC says "Compute chain explanation" at 30-06-2023 18:04:33
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 30-06-2023 18:04:36
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 30-06-2023 18:04:38
+Admin pressed button: "Correct" at 30-06-2023 18:04:55
+Current task: "ComputeChainTask"; Current state of Task: "End" at 30-06-2023 18:05:09
+NPC says "Thank you! Next Task." at 30-06-2023 18:05:09
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:05:09
+
+--------------------------------------
+
+Started task "NumberSeries" at 30-06-2023 18:05:09
+Current task: "NumberSeriesTask"; Current state of Task: "Inactive" at 30-06-2023 18:05:09
+Current task: "NumberSeriesTask"; Current state of Task: "Welcome" at 30-06-2023 18:05:09
+NPC  says "Welcome to second round" at 30-06-2023 18:05:09
+Current task: "NumberSeriesTask"; Current state of Task: "Initialized" at 30-06-2023 18:05:12
+NPC says "Number series explanation" at 30-06-2023 18:05:12
+Current task: "NumberSeriesTask"; Current state of Task: "TaskAction" at 30-06-2023 18:05:16
+Current task: "NumberSeriesTask"; Current state of Task: "RunSeries" at 30-06-2023 18:05:16
+NPC says "Thank you! Next Task." at 30-06-2023 18:05:21
+
+--------------------------------------
+
+Started task "Stroop" at 30-06-2023 18:05:24
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 30-06-2023 18:05:24
+
+--------------------------------------
+
+Restarted task "Stroop" at 30-06-2023 18:05:33

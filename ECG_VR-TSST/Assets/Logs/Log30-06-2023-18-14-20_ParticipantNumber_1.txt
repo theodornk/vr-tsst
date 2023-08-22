@@ -1,0 +1,47 @@
+Begin Study at: 30-06-2023 18:14:20.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: English
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:14:20
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:14:22
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:14:22
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:14:22
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:14:22
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:14:23
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:14:23
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:14:26
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:14:26
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:14:26
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:14:26
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:14:26
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:14:28
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:14:28
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:14:30
+
+--------------------------------------
+
+Started task "Stroop" at 30-06-2023 18:14:30
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 30-06-2023 18:14:30
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 30-06-2023 18:14:30
+NPC  says "Welcome" at 30-06-2023 18:14:30
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 30-06-2023 18:14:37
+NPC says "Stroop test explanation" at 30-06-2023 18:14:37
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 30-06-2023 18:14:46

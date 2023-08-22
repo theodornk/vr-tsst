@@ -1,0 +1,1 @@
+{"initialText":"Vær vennlig å vent et øyeblikk, du vil hvert øyeblikk bli kalt inn til intervjuet.","surveillanceText":"Det blir gjort videoopptak av intervjuet.","readyText":"Du kan nå gå inn.\r\nThe auditor(s) is/are now ready for you."}

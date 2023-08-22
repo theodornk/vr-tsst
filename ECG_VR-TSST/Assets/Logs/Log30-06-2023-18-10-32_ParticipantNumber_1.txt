@@ -1,0 +1,14 @@
+Begin Study at: 30-06-2023 18:10:32.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: English
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:10:33

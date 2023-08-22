@@ -1,0 +1,47 @@
+Begin Study at: 30-06-2023 18:08:27.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: English
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:08:27
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:08:28
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:08:28
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:08:28
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:08:28
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:08:29
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:08:30
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:08:31
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:08:31
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:08:31
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:08:31
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:08:31
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:08:33
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:08:33
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:08:35
+
+--------------------------------------
+
+Started task "Stroop" at 30-06-2023 18:08:35
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 30-06-2023 18:08:35
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 30-06-2023 18:08:35
+NPC  says "Welcome" at 30-06-2023 18:08:35
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 30-06-2023 18:08:42
+NPC says "Stroop test explanation" at 30-06-2023 18:08:42
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 30-06-2023 18:08:51

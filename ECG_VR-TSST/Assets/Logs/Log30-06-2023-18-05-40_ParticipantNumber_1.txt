@@ -1,0 +1,14 @@
+Begin Study at: 30-06-2023 18:05:40.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Language setting error
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:05:40

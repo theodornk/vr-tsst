@@ -1,0 +1,101 @@
+Begin Study at: 30-06-2023 18:32:42.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: English
+First round: [Computation, Subtraction, NumberSeries, ResolveTerms, NBack]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:32:42
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:32:44
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:32:44
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:32:44
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:32:44
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:32:51
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:32:57
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:32:59
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:32:59
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:32:59
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:32:59
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:32:59
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:33:01
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:33:02
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:33:04
+
+--------------------------------------
+
+Started task "Computation" at 30-06-2023 18:33:04
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 30-06-2023 18:33:04
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 30-06-2023 18:33:04
+NPC  says "Welcome" at 30-06-2023 18:33:04
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 30-06-2023 18:33:10
+NPC says "Compute chain explanation" at 30-06-2023 18:33:10
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 30-06-2023 18:33:15
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 30-06-2023 18:33:26
+Current task: "ComputeChainTask"; Current state of Task: "End" at 30-06-2023 18:34:52
+NPC says "Thank you! Next Task." at 30-06-2023 18:34:52
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:34:56
+
+--------------------------------------
+
+Started task "Subtraction" at 30-06-2023 18:34:56
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 30-06-2023 18:34:56
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 30-06-2023 18:34:56
+NPC says "Subtraction series explanation" at 30-06-2023 18:34:56
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 30-06-2023 18:35:04
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 30-06-2023 18:35:15
+NPC says "Thank you! Next Task." at 30-06-2023 18:35:15
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:35:18
+
+--------------------------------------
+
+Started task "NumberSeries" at 30-06-2023 18:35:18
+Current task: "NumberSeriesTask"; Current state of Task: "Inactive" at 30-06-2023 18:35:18
+Current task: "NumberSeriesTask"; Current state of Task: "Welcome" at 30-06-2023 18:35:18
+NPC says "Number series explanation" at 30-06-2023 18:35:18
+Current task: "NumberSeriesTask"; Current state of Task: "TaskAction" at 30-06-2023 18:35:26
+Current task: "NumberSeriesTask"; Current state of Task: "RunSeries" at 30-06-2023 18:35:30
+NPC says "Thank you! Next Task." at 30-06-2023 18:36:15
+
+--------------------------------------
+
+Started task "ResolveTerms" at 30-06-2023 18:36:19
+Current task: "ResolveTermsTask"; Current state of Task: "Inactive" at 30-06-2023 18:36:19
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 30-06-2023 18:36:19
+NPC says "Resolve terms explanation" at 30-06-2023 18:36:19
+Current task: "ResolveTermsTask"; Current state of Task: "TaskAction" at 30-06-2023 18:36:23
+Current task: "ResolveTermsTask"; Current state of Task: "RunSeries" at 30-06-2023 18:36:27
+Current task: "ResolveTermsTask"; Current state of Task: "EndSeries" at 30-06-2023 18:36:46
+NPC says "Thank you! Next Task." at 30-06-2023 18:36:46
+Current task: "ResolveTermsTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:36:49
+
+--------------------------------------
+
+Started task "NBack" at 30-06-2023 18:36:49
+Current task: "N-Back Task"; Current state of Task: "Inactive" at 30-06-2023 18:36:49
+Current task: "N-Back Task"; Current state of Task: "Welcome" at 30-06-2023 18:36:49
+NPC says "NBack test explanation" at 30-06-2023 18:36:49
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 30-06-2023 18:37:00
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 30-06-2023 18:37:02
+Admin pressed button: "Correct" at 30-06-2023 18:37:20
+NPC says "Thank you! This is the end of the Test." at 30-06-2023 18:37:25
+Current task: "N-Back Task"; Current state of Task: "ThanksAction" at 30-06-2023 18:37:25
+Current task: "N-Back Task"; Current state of Task: "Inactive" at 30-06-2023 18:37:30
+
+--------------------------------------
+
+End Study ; at 30-06-2023 18:37:30

@@ -1,0 +1,46 @@
+Begin Study at: 22-08-2023 20:32:26.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Language setting error
+First round: [Computation, NumberSeries]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 22-08-2023 20:32:26
+
+--------------------------------------
+
+Started task "Start" at 22-08-2023 20:32:40
+
+--------------------------------------
+
+Started task "WaitingRoom" at 22-08-2023 20:32:40
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 22-08-2023 20:32:40
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 22-08-2023 20:32:40
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 22-08-2023 20:33:12
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 22-08-2023 20:33:13
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 22-08-2023 20:33:23
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 22-08-2023 20:33:23
+
+--------------------------------------
+
+Started task "PositionChange" at 22-08-2023 20:33:23
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 22-08-2023 20:33:23
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 22-08-2023 20:33:23
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 22-08-2023 20:33:25
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 22-08-2023 20:33:25
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 22-08-2023 20:33:27
+
+--------------------------------------
+
+Started task "Computation" at 22-08-2023 20:33:27
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 22-08-2023 20:33:27
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 22-08-2023 20:33:27
+NPC  says "Welcome" at 22-08-2023 20:33:27
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 22-08-2023 20:33:33
+NPC says "Compute chain explanation" at 22-08-2023 20:33:33

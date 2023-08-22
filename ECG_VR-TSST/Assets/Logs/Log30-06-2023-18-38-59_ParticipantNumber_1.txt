@@ -1,0 +1,48 @@
+Begin Study at: 30-06-2023 18:38:59.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: English
+First round: [ResolveTerms]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:38:59
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:39:14
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:39:14
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:39:14
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:39:14
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:39:14
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:39:14
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:39:15
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:39:15
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:39:15
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:39:15
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:39:15
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:39:17
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:39:17
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:39:19
+
+--------------------------------------
+
+Started task "ResolveTerms" at 30-06-2023 18:39:19
+Current task: "ResolveTermsTask"; Current state of Task: "Inactive" at 30-06-2023 18:39:19
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 30-06-2023 18:39:19
+NPC  says "Welcome" at 30-06-2023 18:39:19
+NPC says "Resolve terms explanation" at 30-06-2023 18:39:26
+Current task: "ResolveTermsTask"; Current state of Task: "Initialized" at 30-06-2023 18:39:26
+Current task: "ResolveTermsTask"; Current state of Task: "TaskAction" at 30-06-2023 18:39:30
+Current task: "ResolveTermsTask"; Current state of Task: "RunSeries" at 30-06-2023 18:39:34

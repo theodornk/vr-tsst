@@ -1,0 +1,54 @@
+Begin Study at: 30-06-2023 18:11:14.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Language setting error
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:11:14
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:11:15
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:11:15
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:11:15
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:11:15
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 30-06-2023 18:11:16
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 30-06-2023 18:11:16
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 30-06-2023 18:11:17
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 30-06-2023 18:11:17
+
+--------------------------------------
+
+Started task "PositionChange" at 30-06-2023 18:11:17
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 30-06-2023 18:11:17
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 30-06-2023 18:11:17
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 30-06-2023 18:11:19
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 30-06-2023 18:11:19
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 30-06-2023 18:11:21
+
+--------------------------------------
+
+Started task "Stroop" at 30-06-2023 18:11:21
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 30-06-2023 18:11:21
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 30-06-2023 18:11:21
+NPC  says "Welcome" at 30-06-2023 18:11:21
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 30-06-2023 18:11:24
+NPC says "Stroop test explanation" at 30-06-2023 18:11:24
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 30-06-2023 18:11:27
+Current task: "StroopTestTask"; Current state of Task: "TaskTime" at 30-06-2023 18:11:31
+NPC says "Thank you! This is the end of the Test." at 30-06-2023 18:11:31
+Current task: "StroopTestTask"; Current state of Task: "ThanksAction" at 30-06-2023 18:11:34
+
+--------------------------------------
+
+End Study ; at 30-06-2023 18:11:34

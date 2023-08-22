@@ -1,0 +1,24 @@
+Begin Study at: 30-06-2023 18:16:58.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Language setting error
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 30-06-2023 18:16:58
+
+--------------------------------------
+
+Started task "Start" at 30-06-2023 18:17:02
+
+--------------------------------------
+
+Started task "WaitingRoom" at 30-06-2023 18:17:02
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 30-06-2023 18:17:02
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 30-06-2023 18:17:02

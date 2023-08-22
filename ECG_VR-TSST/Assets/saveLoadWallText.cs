@@ -53,6 +53,20 @@ public class saveLoadWallText : MonoBehaviour {
             {
                 Debug.Log("Fehler beim schreiben der Datei:" + e);
             }
+
+            path = Application.dataPath + "/WallText/WallText" + 2 + ".txt";
+            waitText = new WaitingRoomText("Vennlist vent, du vil hvert øyeblikk bli kalt inn til intervjuet.", "Vi gjør oppmerksom på at både lyd og video blir tatt opp.", "Du kan nå gå inn.");
+            str = JsonUtility.ToJson(waitText);
+
+
+            try
+            {
+                File.WriteAllText(path, str);
+            }
+            catch (IOException e)
+            {
+                Debug.Log("Fehler beim schreiben der Datei:" + e);
+            }
         }
         else
         {
